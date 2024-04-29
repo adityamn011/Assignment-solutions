@@ -1,0 +1,1 @@
+select * from salespeople where name like '[B-K]%' ;

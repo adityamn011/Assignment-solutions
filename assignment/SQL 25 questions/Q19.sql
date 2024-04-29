@@ -1,0 +1,1 @@
+select * from NobelPrizeWinner where SUBJECT='Physics' and YEAR=1970 OR SUBJECT='Chemistry' and YEAR=1972;

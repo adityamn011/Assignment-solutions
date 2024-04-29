@@ -1,0 +1,1 @@
+	SELECT 7+2 AS addition, 7/2 AS division, 7-2 AS subtraction, 7*2 AS multiplications;

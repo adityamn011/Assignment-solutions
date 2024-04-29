@@ -1,0 +1,1 @@
+select Winner from NobelPrizeWinner where YEAR=1970 

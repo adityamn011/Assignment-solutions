@@ -1,0 +1,1 @@
+select YEAR, SUBJECT, WINNER, COUNTRY from NobelPrizeWinner where SUBJECT='Chemistry' and YEAR BETWEEN 1970 AND 1975;

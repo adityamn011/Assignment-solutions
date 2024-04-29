@@ -1,0 +1,1 @@
+select * from customers1 where cust_name like 'B%';

@@ -1,0 +1,1 @@
+select * from NobelPrizeWinner where SUBJECT in('Physiology','Chemistry') and YEAR=1970 ;
